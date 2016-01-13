@@ -1,0 +1,244 @@
+Final Report
+
+Assumptions:
+Users can like their own photo
+Friendships are two-way
+Users have unique emails
+Tags are unique single words
+Pictures and Albums have an owner_id
+Anonymous users can be friends with other registered users.
+
+Limitations: 
+Tags are not clickable. (sorry...)
+When adding tags, repetition is allowed.
+When displaying the users that liked a picture, there are repetition.
+A user can like a picture multiple times.
+When creating a "like" in the database, I used a special "addLike" comment. 
+
+------SQL statements------
+
+CREATE SEQUENCE Pictures_picture_id_seq
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 14
+  CACHE 1;
+
+CREATE TABLE Pictures
+(
+  picture_id int4 NOT NULL DEFAULT nextval('Pictures_picture_id_seq'),
+  caption varchar(255) NOT NULL,
+  imgdata bytea NOT NULL,
+  size int4 NOT NULL,
+  content_type varchar(255) NOT NULL,
+  thumbdata bytea NOT NULL,
+  owner_id int4 NOT NULL,
+  CONSTRAINT pictures_pk PRIMARY KEY (picture_id),
+  CONSTRAINT owner_id_fk FOREIGN KEY (owner_id) REFERENCES Users(user_id)
+); 
+
+CREATE SEQUENCE Users_user_id_seq
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 14
+  CACHE 1;
+
+CREATE TABLE Users
+(
+  user_id int4 NOT NULL DEFAULT nextval('Users_user_id_seq'),
+  email varchar(255) NOT NULL,
+  password varchar(255) NOT NULL,
+  role_name varchar(255) NOT NULL DEFAULT 'RegisteredUser',
+  CONSTRAINT users_pk PRIMARY KEY (user_id),
+  firstname varchar(255) NOT NULL,
+  lastname varchar(255) NOT NULL,
+  gender varchar(1),
+  hometown varchar(255),
+  date_of_birth date NOT NULL 
+);
+
+CREATE SEQUENCE Albums_album_id_seq
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 14
+  CACHE 1;
+
+CREATE TABLE Albums 
+(
+  album_id int4 NOT NULL DEFAULT nextval('Albums_album_id_seq'),
+  owner_id int4 NOT NULL,
+  name varchar(255) NOT NULL,
+  date_created TIMESTAMP,
+  CONSTRAINT albums_pk PRIMARY KEY (album_id),
+  CONSTRAINT owner_id FOREIGN KEY (owner_id) REFERENCES Users(user_id)
+);
+
+CREATE SEQUENCE Comments_comment_id_seq
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 14
+  CACHE 1;
+
+CREATE TABLE Comments 
+(
+  comment_id int4 NOT NULL DEFAULT nextval('Comments_comment_id_seq'),
+  comment_text varchar(255),
+  owner_id int4 NOT NULL,
+  picture_id int4 NOT NULL,
+  date_created date NOT NULL,
+  CONSTRAINT comment_pk PRIMARY KEY (comment_id),
+  CONSTRAINT owner_id_fk FOREIGN KEY (owner_id) REFERENCES Users(user_id),
+  CONSTRAINT picture_id_fk FOREIGN KEY (picture_id) REFERENCES Pictures(picture_id)
+);
+
+CREATE SEQUENCE Picturetags_tag_id_seq
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 14
+  CACHE 1;
+
+CREATE TABLE Tags 
+(
+  picture_id int4 NOT NULL,
+  tag_id int4 NOT NULL DEFAULT nextval('Picturetags_tag_id_seq'),
+  word varchar(255),
+  CONSTRAINT tags_pk PRIMARY KEY (tag_id),
+  CONSTRAINT picture_id_fk FOREIGN KEY (picture_id) REFERENCES Pictures(picture_id)
+);
+
+CREATE TABLE Friends 
+(
+  user_id_1 int4 NOT NULL,
+  user_id_2 int4 NOT NULL,
+  CONSTRAINT friends_pk PRIMARY KEY (user_id_1, user_id_2),
+  CONSTRAINT user_id_1_fk FOREIGN KEY (user_id_1) REFERENCES Users(user_id),
+  CONSTRAINT user_id_2_fk FOREIGN KEY (user_id_2) REFERENCES Users(user_id)
+);
+
+CREATE TABLE Album_Contains
+(
+  album_id int4 NOT NULL,
+  picture_id int4 NOT NULL,
+  CONSTRAINT album_contains_pk PRIMARY KEY (album_id, picture_id),
+  CONSTRAINT album_id_fk FOREIGN KEY (album_id) REFERENCES Albums(album_id),
+  CONSTRAINT picture_id_fk FOREIGN KEY (picture_id) REFERENCES Pictures(picture_id)
+);
+
+-------SQL QUERIES------
+//create new album
+  private static final String NEW_ALBUMS_STMT = "INSERT INTO " +
+      "albums (name, owner_id, date_created) VALUES (?, ?, NOW())";
+
+  //get pictures in the album
+  private static final String GET_ALBUM_PICS_STMT = "SELECT picture_id " +
+      "FROM album_contains WHERE album_id = ?";
+
+  //get a user's albums
+  private static final String GET_USERS_ALBUMS_STMT = "SELECT album_id, " +
+      "owner_id, name, date_created FROM albums WHERE owner_id = ?";
+
+  private static final String DEL_ALBUM_CONTAINS_STMT = "DELETE FROM " +
+      "album_contains WHERE album_id = ?";
+
+  //delete an album
+  private static final String DEL_ALBUMS_STMT = "DELETE FROM " +
+      "albums WHERE album_id = ?";
+
+  private static final String DEL_FROM_PICTURES_STMT = "DELETE FROM " +
+      "pictures WHERE picture_id = ?";
+
+  private static final String DEL_FROM_PICCOMMENTS_STMT = "DELETE FROM " +
+      "comments WHERE picture_id = ?";
+
+  private static final String GET_ALL_ALBUMS_STMT = "SELECT album_id, " +
+      "name, owner_id, date_created FROM albums ORDER BY date_created DESC"; 
+
+  private static final String ADD_COMMENT_STMT = "INSERT INTO " + 
+    "comments (owner_id, picture_id, comment_text, date_created) VALUES (?, ?, ?, now())";
+
+  private static final String GET_PICS_COMMENTS_STMT = "SELECT " +
+    "owner_id, comment_text, date_created FROM comments WHERE picture_id = ?";
+
+  private static final String COUNT_LIKES_OF_PIC_STMT = "SELECT count(comment_text) " + 
+    "FROM comments WHERE comment_text = 'addLike' AND picture_id = ?";
+
+  private static final String CHECK_EMAIL_STMT = "SELECT " +
+      "COUNT(*) FROM Users WHERE email = ?";
+
+  private static final String NEW_USER_STMT = "INSERT INTO " +
+      "Users (email, password, firstname, lastname, " + 
+      "date_of_birth, gender, hometown) " + 
+      "VALUES (?, ?, ?, ?, TO_DATE(?,'MMDDYYYY'), ?, ?)";
+
+  private static final String GET_USER_ID_STMT = "SELECT " +
+      "user_id FROM Users WHERE email = ?";
+
+  private static final String GET_USERS_FRIENDS_STMT = "SELECT " + 
+      "user_id_2 FROM friends WHERE user_id_1 = ?";
+
+  private static final String GET_FRIENDS_INFO_STMT = "SELECT firstname, " +
+      "lastname, email FROM users WHERE user_id = ?";
+
+  private static final String GET_ALL_OTHER_USERS_STMT = "SELECT firstname, " +
+      "lastname, email, user_id FROM users";
+
+  private static final String MAKE_FRIEND_STMT = "INSERT INTO friends " +
+      "(user_id_1, user_id_2) VALUES (?, ?)";
+
+  private static final String DELETE_FRIEND_STMT = "DELETE FROM friends " + 
+      "WHERE user_id_1 = ? AND user_id_2 = ?";
+
+  private static final String GET_USERS_NAME_STMT = "SELECT firstname, lastname " +
+      "FROM users WHERE user_id = ?";
+
+  private static final String GET_LIKERS_STMT = "SELECT owner_id FROM comments " +
+      "WHERE comment_text = 'addLike' AND picture_id = ?";
+
+  private static final String LOAD_PICTURE_STMT = "SELECT " +
+      "\"caption\", \"imgdata\", \"thumbdata\", \"size\", \"content_type\" FROM Pictures WHERE \"picture_id\" = ?";
+
+  private static final String SAVE_PICTURE_STMT = "INSERT INTO " +
+      "pictures (\"caption\", \"imgdata\", \"thumbdata\", \"size\", \"content_type\", \"owner_id\") VALUES (?, ?, ?, ?, ?, ?) RETURNING picture_id";
+
+  private static final String SAVE_ALBUM_CONTAINS_STMT = "INSERT INTO " + 
+      "album_contains (album_id, picture_id) VALUES (?, ?)";
+
+  private static final String ALL_PICTURE_IDS_STMT = "SELECT \"picture_id\" FROM Pictures ORDER BY \"picture_id\" DESC";
+
+  private static final String GET_USERS_PICTURES_STMT = "SELECT picture_id FROM pictures WHERE owner_id = ?";
+
+  private static final String GET_PICTURES_OWNER_STMT = "SELECT owner_id FROM pictures WHERE picture_id = ?";
+
+  //deletes picture
+  private static final String DELETE_PIC_STMT = "DELETE FROM pictures WHERE picture_id = ?";
+
+  private static final String DELETE_PIC_FROM_ALBUM_STMT = "DELETE FROM album_contains WHERE picture_id = ?";
+
+  //deletes a comment on a picture
+  private static final String DELETE_COMMENT_STMT = "DELETE FROM comments WHERE picture_id = ?";
+
+  private static final String CREATE_TAG_STMT = "INSERT INTO " +
+    "tags (picture_id, word) VALUES (?, ?)";
+
+  private static final String GET_PICS_TAG_STMT = "SELECT word " +
+    "FROM tags WHERE picture_id = ?";
+
+  private static final String GET_PICS_WITH_TAG_STMT = "SELECT picture_id " +
+    "FROM tags WHERE word = ?";
+
+  private static final String GET_MOST_POPULAR_TAGS_STMT = "SELECT word, " +
+    "COUNT(picture_id) AS tagCount FROM tags GROUP BY word ORDER BY tagCount DESC";
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,8 @@
+Dec 15, 2015 4:01:14 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Dec 15, 2015 4:01:15 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 15, 2015 4:01:15 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Dec 15, 2015 4:01:15 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime

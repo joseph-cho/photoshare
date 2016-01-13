@@ -1,0 +1,2104 @@
+Nov 06, 2015 11:22:12 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:22:13 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 11:22:13 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:22:13 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 11:22:20 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 11:22:20 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:22:20 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1103 ms
+Nov 06, 2015 11:22:20 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 11:22:20 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 11:22:20 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 11:22:23 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:22:23 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 11:22:23 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3063 ms
+Nov 06, 2015 11:28:45 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:28:46 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 11:28:47 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:28:47 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 11:28:51 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 11:28:51 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:28:51 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 959 ms
+Nov 06, 2015 11:28:51 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 11:28:51 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 11:28:51 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 11:28:52 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:28:53 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 11:28:53 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1864 ms
+Nov 06, 2015 11:29:36 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:29:37 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 11:29:37 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:29:37 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 11:29:41 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 11:29:41 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:29:41 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 969 ms
+Nov 06, 2015 11:29:41 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 11:29:41 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 11:29:41 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 11:29:43 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:29:43 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 11:29:43 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1836 ms
+Nov 06, 2015 11:33:02 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:33:03 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 11:33:03 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:33:03 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 11:33:07 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 11:33:07 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:33:07 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 912 ms
+Nov 06, 2015 11:33:07 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 11:33:07 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 11:33:07 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 11:33:08 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:33:08 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 11:33:08 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1830 ms
+Nov 06, 2015 11:34:32 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:34:33 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 11:34:33 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:34:33 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 11:34:37 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 11:34:37 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:34:37 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 920 ms
+Nov 06, 2015 11:34:37 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 11:34:37 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 11:34:37 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 11:34:38 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:34:39 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 11:34:39 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1818 ms
+Nov 06, 2015 11:35:57 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:35:58 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 11:35:58 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:35:58 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 11:36:02 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 11:36:02 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:36:02 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 990 ms
+Nov 06, 2015 11:36:03 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 11:36:03 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 11:36:03 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 11:36:04 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:36:04 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 11:36:04 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1888 ms
+Nov 06, 2015 2:07:06 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:07:07 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 2:07:07 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:07:07 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 2:07:11 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 2:07:11 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:07:11 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 929 ms
+Nov 06, 2015 2:07:11 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 2:07:11 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 2:07:11 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 2:07:13 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:07:13 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 2:07:13 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1938 ms
+Nov 06, 2015 2:27:53 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:27:54 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 2:27:54 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:27:54 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 2:27:58 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 2:27:58 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:27:58 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 941 ms
+Nov 06, 2015 2:27:58 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 2:27:58 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 2:27:58 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 2:28:00 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:28:00 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 2:28:00 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1893 ms
+Nov 06, 2015 2:35:12 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:35:13 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 2:35:13 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:35:13 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 2:35:17 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 2:35:17 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:35:17 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 949 ms
+Nov 06, 2015 2:35:17 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 2:35:17 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 2:35:17 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 2:35:19 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:35:19 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 2:35:19 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2037 ms
+Nov 06, 2015 2:46:24 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:46:25 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 2:46:25 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:46:25 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 2:46:29 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 2:46:29 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:46:29 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 924 ms
+Nov 06, 2015 2:46:29 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 2:46:29 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 2:46:29 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 2:46:31 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:46:31 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 2:46:31 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1947 ms
+Nov 06, 2015 2:47:13 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:47:14 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 2:47:14 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:47:14 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 2:47:18 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 2:47:18 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:47:18 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 932 ms
+Nov 06, 2015 2:47:18 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 2:47:18 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 2:47:18 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 2:47:20 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 2:47:20 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 2:47:20 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1797 ms
+Nov 06, 2015 3:06:23 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:06:24 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 3:06:24 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:06:24 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 3:06:28 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 3:06:28 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:06:28 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 988 ms
+Nov 06, 2015 3:06:28 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 3:06:28 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 3:06:28 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 3:06:30 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:06:30 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 3:06:30 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1930 ms
+Nov 06, 2015 3:08:55 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:08:56 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 3:08:56 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:08:56 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 3:09:00 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 3:09:00 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:09:00 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 929 ms
+Nov 06, 2015 3:09:00 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 3:09:00 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 3:09:00 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 3:09:02 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:09:02 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 3:09:02 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1879 ms
+Nov 06, 2015 3:11:28 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:11:29 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 3:11:29 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:11:29 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 3:11:33 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 3:11:33 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:11:33 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 951 ms
+Nov 06, 2015 3:11:33 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 3:11:33 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 3:11:33 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 3:11:35 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:11:35 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 3:11:35 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1994 ms
+Nov 06, 2015 3:13:10 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:13:11 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 3:13:11 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:13:11 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 3:13:15 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 3:13:15 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:13:15 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 945 ms
+Nov 06, 2015 3:13:16 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 3:13:16 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 3:13:16 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 3:13:17 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:13:17 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 3:13:17 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1926 ms
+Nov 06, 2015 3:14:21 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:14:22 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 3:14:22 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:14:22 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 3:14:27 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 3:14:27 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:14:27 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 997 ms
+Nov 06, 2015 3:14:27 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 3:14:27 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 3:14:27 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 3:14:29 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 3:14:29 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 3:14:29 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2589 ms
+Nov 06, 2015 4:29:08 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:29:09 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 4:29:09 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:29:09 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 4:29:11 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 4:29:11 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:29:11 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 944 ms
+Nov 06, 2015 4:29:12 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 4:29:12 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 4:29:12 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 4:29:12 PM org.apache.catalina.core.StandardContext resourcesStart
+SEVERE: Error starting static Resources
+java.lang.IllegalArgumentException: Document base /home/ugrad/chojoe/CS460/pa1/apache-tomcat-5.5.15/webapps/photoshare does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:140)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3812)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3983)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:759)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:739)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:524)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:603)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:535)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:470)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1118)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:310)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1020)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:718)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1012)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:442)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:450)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:700)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:551)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+
+Nov 06, 2015 4:29:12 PM org.apache.catalina.core.StandardContext start
+SEVERE: Error in resourceStart()
+Nov 06, 2015 4:29:12 PM org.apache.catalina.core.StandardContext start
+SEVERE: Error getConfigured
+Nov 06, 2015 4:29:12 PM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/photoshare] startup failed due to previous errors
+Nov 06, 2015 4:29:12 PM org.apache.catalina.core.StandardContext stop
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/photoshare] has not been started
+Nov 06, 2015 4:29:13 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:29:13 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 4:29:13 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1460 ms
+Nov 06, 2015 4:29:46 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:29:47 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 4:29:48 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:29:48 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 4:29:51 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 4:29:52 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:29:52 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 974 ms
+Nov 06, 2015 4:29:52 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 4:29:52 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 4:29:52 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 4:29:53 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:29:53 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 4:29:53 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1858 ms
+Nov 06, 2015 4:31:25 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:31:26 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 4:31:26 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:31:26 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 4:31:30 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 4:31:30 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:31:30 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 968 ms
+Nov 06, 2015 4:31:30 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 4:31:30 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 4:31:30 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 4:31:32 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:31:32 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 4:31:32 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1845 ms
+Nov 06, 2015 4:33:38 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:33:39 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 4:33:39 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:33:39 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 4:33:43 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 4:33:43 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:33:43 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 948 ms
+Nov 06, 2015 4:33:43 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 4:33:43 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 4:33:43 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 4:33:45 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:33:45 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 4:33:45 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1994 ms
+Nov 06, 2015 4:34:18 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:34:19 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 4:34:19 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:34:19 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 4:34:23 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 4:34:23 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:34:23 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 955 ms
+Nov 06, 2015 4:34:24 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 4:34:24 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 4:34:24 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 4:34:25 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:34:25 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 4:34:25 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1875 ms
+Nov 06, 2015 4:35:50 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:35:51 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 4:35:51 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:35:51 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 4:35:55 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 4:35:56 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:35:56 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 940 ms
+Nov 06, 2015 4:35:56 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 4:35:56 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 4:35:56 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 4:35:57 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:35:57 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 4:35:58 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2005 ms
+Nov 06, 2015 4:38:34 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:38:35 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 4:38:35 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:38:35 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 4:38:39 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 4:38:39 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:38:39 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 953 ms
+Nov 06, 2015 4:38:39 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 4:38:39 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 4:38:39 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 4:38:41 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:38:41 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 4:38:41 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1872 ms
+Nov 06, 2015 4:44:36 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:44:37 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 4:44:37 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:44:37 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 4:44:41 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 4:44:41 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:44:41 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 971 ms
+Nov 06, 2015 4:44:42 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 4:44:42 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 4:44:42 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 4:44:43 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:44:43 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 4:44:43 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1918 ms
+Nov 06, 2015 4:45:48 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:45:49 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 4:45:49 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:45:49 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 4:45:53 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 4:45:53 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:45:53 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 895 ms
+Nov 06, 2015 4:45:53 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 4:45:53 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 4:45:53 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 4:45:55 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 4:45:55 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 4:45:55 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1782 ms
+Nov 06, 2015 5:11:19 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 5:11:20 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 5:11:20 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 5:11:20 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 5:11:24 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 5:11:24 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 5:11:24 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 952 ms
+Nov 06, 2015 5:11:24 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 5:11:24 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 5:11:24 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 5:11:26 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 5:11:26 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 5:11:26 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1818 ms
+Nov 06, 2015 7:05:27 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:05:28 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 7:05:28 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:05:28 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 7:05:32 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 7:05:32 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:05:32 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 911 ms
+Nov 06, 2015 7:05:32 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 7:05:32 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 7:05:32 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 7:05:32 PM org.apache.catalina.core.StandardContext resourcesStart
+SEVERE: Error starting static Resources
+java.lang.IllegalArgumentException: Document base /home/ugrad/chojoe/CS460/pa1/apache-tomcat-5.5.15/webapps/photoshare does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:140)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3812)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3983)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:759)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:739)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:524)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:603)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:535)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:470)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1118)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:310)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1020)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:718)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1012)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:442)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:450)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:700)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:551)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+
+Nov 06, 2015 7:05:32 PM org.apache.catalina.core.StandardContext start
+SEVERE: Error in resourceStart()
+Nov 06, 2015 7:05:32 PM org.apache.catalina.core.StandardContext start
+SEVERE: Error getConfigured
+Nov 06, 2015 7:05:32 PM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/photoshare] startup failed due to previous errors
+Nov 06, 2015 7:05:32 PM org.apache.catalina.core.StandardContext stop
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/photoshare] has not been started
+Nov 06, 2015 7:05:33 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:05:33 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 7:05:33 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1422 ms
+Nov 06, 2015 7:06:08 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:06:09 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 7:06:09 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:06:09 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 7:06:13 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 7:06:13 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:06:13 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 964 ms
+Nov 06, 2015 7:06:13 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 7:06:13 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 7:06:13 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 7:06:13 PM org.apache.catalina.core.StandardContext resourcesStart
+SEVERE: Error starting static Resources
+java.lang.IllegalArgumentException: Document base /home/ugrad/chojoe/CS460/pa1/apache-tomcat-5.5.15/webapps/photoshare does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:140)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3812)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3983)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:759)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:739)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:524)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:603)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:535)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:470)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1118)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:310)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1020)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:718)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1012)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:442)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:450)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:700)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:551)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+
+Nov 06, 2015 7:06:13 PM org.apache.catalina.core.StandardContext start
+SEVERE: Error in resourceStart()
+Nov 06, 2015 7:06:13 PM org.apache.catalina.core.StandardContext start
+SEVERE: Error getConfigured
+Nov 06, 2015 7:06:13 PM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/photoshare] startup failed due to previous errors
+Nov 06, 2015 7:06:13 PM org.apache.catalina.core.StandardContext stop
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/photoshare] has not been started
+Nov 06, 2015 7:06:14 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:06:14 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 7:06:14 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1358 ms
+Nov 06, 2015 7:06:34 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:06:35 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 7:06:36 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:06:36 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 7:06:40 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 7:06:40 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:06:40 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 913 ms
+Nov 06, 2015 7:06:40 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 7:06:40 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 7:06:40 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 7:06:41 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 7:06:42 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 7:06:42 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1830 ms
+Nov 06, 2015 8:02:23 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:02:24 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:02:25 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:02:25 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:02:28 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:02:29 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:02:29 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 922 ms
+Nov 06, 2015 8:02:29 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:02:29 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:02:29 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:02:30 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:02:30 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:02:30 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1863 ms
+Nov 06, 2015 8:06:04 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:06:05 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:06:05 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:06:05 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:06:09 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:06:10 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:06:10 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 965 ms
+Nov 06, 2015 8:06:10 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:06:10 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:06:10 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:06:11 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:06:11 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:06:11 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1908 ms
+Nov 06, 2015 8:07:10 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:07:11 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:07:11 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:07:11 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:07:15 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:07:15 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:07:15 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 925 ms
+Nov 06, 2015 8:07:15 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:07:15 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:07:15 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:07:17 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:07:17 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:07:17 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1926 ms
+Nov 06, 2015 8:09:04 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:09:05 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:09:05 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:09:05 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:09:09 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:09:09 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:09:09 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 916 ms
+Nov 06, 2015 8:09:09 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:09:09 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:09:09 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:09:11 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:09:11 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:09:11 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2012 ms
+Nov 06, 2015 8:15:04 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:15:05 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:15:05 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:15:05 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:15:09 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:15:10 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:15:10 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 966 ms
+Nov 06, 2015 8:15:10 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:15:10 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:15:10 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:15:11 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:15:12 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:15:12 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2031 ms
+Nov 06, 2015 8:19:25 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:19:26 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:19:26 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:19:26 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:19:30 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:19:30 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:19:30 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1124 ms
+Nov 06, 2015 8:19:30 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:19:30 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:19:30 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:19:32 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:19:32 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:19:32 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1856 ms
+Nov 06, 2015 8:20:45 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:20:46 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:20:47 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:20:47 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:20:51 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:20:51 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:20:51 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 913 ms
+Nov 06, 2015 8:20:51 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:20:51 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:20:51 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:20:52 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:20:52 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:20:53 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1841 ms
+Nov 06, 2015 8:22:34 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:22:35 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:22:35 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:22:35 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:22:39 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:22:39 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:22:39 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 938 ms
+Nov 06, 2015 8:22:39 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:22:39 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:22:39 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:22:41 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:22:41 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:22:41 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1863 ms
+Nov 06, 2015 8:23:28 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:23:29 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:23:29 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:23:29 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:23:33 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:23:33 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:23:33 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 982 ms
+Nov 06, 2015 8:23:33 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:23:33 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:23:33 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:23:35 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:23:35 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:23:35 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1903 ms
+Nov 06, 2015 8:24:11 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:24:12 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:24:12 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:24:12 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:24:16 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:24:17 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:24:17 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 945 ms
+Nov 06, 2015 8:24:17 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:24:17 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:24:17 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:24:18 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:24:18 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:24:18 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1849 ms
+Nov 06, 2015 8:24:36 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:24:37 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:24:37 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:24:37 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:24:41 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:24:41 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:24:41 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 939 ms
+Nov 06, 2015 8:24:41 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:24:41 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:24:41 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:24:43 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:24:43 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:24:43 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1822 ms
+Nov 06, 2015 8:25:30 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:25:31 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:25:31 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:25:31 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:25:35 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:25:36 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:25:36 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 951 ms
+Nov 06, 2015 8:25:36 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:25:36 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:25:36 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:25:37 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:25:37 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:25:37 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1899 ms
+Nov 06, 2015 8:28:38 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:28:39 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:28:39 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:28:39 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:28:43 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:28:43 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:28:43 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 946 ms
+Nov 06, 2015 8:28:43 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:28:43 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:28:43 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:28:45 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:28:45 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:28:45 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2042 ms
+Nov 06, 2015 8:30:51 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:30:52 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:30:52 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:30:53 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:30:57 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:30:57 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:30:57 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 980 ms
+Nov 06, 2015 8:30:57 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:30:57 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:30:57 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:30:59 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:30:59 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:30:59 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1942 ms
+Nov 06, 2015 8:31:48 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:31:49 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:31:49 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:31:49 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:31:53 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:31:53 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:31:53 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 946 ms
+Nov 06, 2015 8:31:53 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:31:53 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:31:53 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:31:55 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:31:55 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:31:55 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1828 ms
+Nov 06, 2015 8:33:14 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:33:15 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:33:15 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:33:15 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:33:19 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:33:19 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:33:19 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 906 ms
+Nov 06, 2015 8:33:19 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:33:19 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:33:19 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:33:20 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:33:20 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:33:21 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1751 ms
+Nov 06, 2015 8:37:01 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:37:02 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:37:02 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:37:02 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:37:06 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:37:06 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:37:06 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 964 ms
+Nov 06, 2015 8:37:06 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:37:06 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:37:06 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:37:08 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:37:08 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:37:08 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1756 ms
+Nov 06, 2015 8:56:35 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:56:36 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 8:56:36 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:56:36 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 8:56:40 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 8:56:40 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:56:40 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 912 ms
+Nov 06, 2015 8:56:40 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 8:56:40 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 8:56:40 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 8:56:42 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 8:56:42 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 8:56:42 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1859 ms
+Nov 06, 2015 9:03:58 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:03:59 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:03:59 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:03:59 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:04:03 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:04:03 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:04:03 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 900 ms
+Nov 06, 2015 9:04:03 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:04:03 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:04:03 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:04:05 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:04:05 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:04:05 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1914 ms
+Nov 06, 2015 9:04:56 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:04:57 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:04:57 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:04:57 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:05:01 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:05:01 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:05:01 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 934 ms
+Nov 06, 2015 9:05:01 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:05:01 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:05:01 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:05:03 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:05:03 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:05:03 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1783 ms
+Nov 06, 2015 9:09:13 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:09:14 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:09:14 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:09:14 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:09:19 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:09:19 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:09:19 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1000 ms
+Nov 06, 2015 9:09:19 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:09:19 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:09:19 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:09:20 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:09:21 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:09:21 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2079 ms
+Nov 06, 2015 9:10:06 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:10:07 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:10:07 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:10:07 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:10:11 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:10:11 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:10:11 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 960 ms
+Nov 06, 2015 9:10:11 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:10:11 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:10:11 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:10:12 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:10:13 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:10:13 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1793 ms
+Nov 06, 2015 9:10:39 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:10:40 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:10:40 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:10:40 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:10:44 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:10:44 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:10:44 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 917 ms
+Nov 06, 2015 9:10:44 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:10:44 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:10:44 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:10:45 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:10:46 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:10:46 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1801 ms
+Nov 06, 2015 9:22:15 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:22:16 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:22:16 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:22:16 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:22:20 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:22:20 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:22:20 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 961 ms
+Nov 06, 2015 9:22:20 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:22:20 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:22:20 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:22:22 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:22:22 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:22:22 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1836 ms
+Nov 06, 2015 9:24:32 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:24:33 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:24:33 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:24:33 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:24:38 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:24:38 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:24:38 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 978 ms
+Nov 06, 2015 9:24:38 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:24:38 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:24:38 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:24:40 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:24:40 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:24:40 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1986 ms
+Nov 06, 2015 9:30:58 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:30:59 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:30:59 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:30:59 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:31:03 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:31:03 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:31:03 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 908 ms
+Nov 06, 2015 9:31:03 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:31:03 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:31:03 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:31:05 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:31:05 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:31:05 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1924 ms
+Nov 06, 2015 9:36:23 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:36:24 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:36:24 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Nov 06, 2015 9:36:25 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Nov 06, 2015 9:36:26 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Nov 06, 2015 9:36:26 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:36:26 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:36:28 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:36:28 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:36:28 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 921 ms
+Nov 06, 2015 9:36:28 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:36:28 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:36:28 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:36:30 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:36:30 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:36:30 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1904 ms
+Nov 06, 2015 9:39:33 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:39:34 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:39:34 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:39:34 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:39:39 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:39:39 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:39:39 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 888 ms
+Nov 06, 2015 9:39:39 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:39:39 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:39:39 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:39:40 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:39:40 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:39:40 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1745 ms
+Nov 06, 2015 9:42:30 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:42:31 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:42:32 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:42:32 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:42:36 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:42:36 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:42:36 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 919 ms
+Nov 06, 2015 9:42:36 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:42:36 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:42:36 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:42:37 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:42:38 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:42:38 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1780 ms
+Nov 06, 2015 9:44:57 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:44:58 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:44:58 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:44:58 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:45:02 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:45:03 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:45:03 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 970 ms
+Nov 06, 2015 9:45:03 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:45:03 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:45:03 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:45:04 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:45:05 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:45:05 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2048 ms
+Nov 06, 2015 9:46:32 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:46:33 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:46:33 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:46:33 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:46:37 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:46:37 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:46:37 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1008 ms
+Nov 06, 2015 9:46:37 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:46:37 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:46:37 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:46:39 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:46:39 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:46:39 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2166 ms
+Nov 06, 2015 9:47:41 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:47:42 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:47:42 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:47:42 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:47:46 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:47:46 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:47:46 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 955 ms
+Nov 06, 2015 9:47:46 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:47:46 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:47:46 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:47:48 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:47:48 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:47:48 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1995 ms
+Nov 06, 2015 9:51:22 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:51:23 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 9:51:23 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:51:23 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 9:51:27 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 9:51:27 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:51:27 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 970 ms
+Nov 06, 2015 9:51:27 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 9:51:27 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 9:51:27 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 9:51:27 PM org.apache.catalina.core.StandardContext resourcesStart
+SEVERE: Error starting static Resources
+java.lang.IllegalArgumentException: Document base /home/ugrad/chojoe/CS460/pa1/apache-tomcat-5.5.15/webapps/photoshare does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:140)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3812)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3983)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:759)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:739)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:524)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:603)
+	at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:535)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:470)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1118)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:310)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1020)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:718)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1012)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:442)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:450)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:700)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:551)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:275)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+
+Nov 06, 2015 9:51:27 PM org.apache.catalina.core.StandardContext start
+SEVERE: Error in resourceStart()
+Nov 06, 2015 9:51:27 PM org.apache.catalina.core.StandardContext start
+SEVERE: Error getConfigured
+Nov 06, 2015 9:51:27 PM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/photoshare] startup failed due to previous errors
+Nov 06, 2015 9:51:27 PM org.apache.catalina.core.StandardContext stop
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/photoshare] has not been started
+Nov 06, 2015 9:51:28 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 9:51:28 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 9:51:28 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1469 ms
+Nov 06, 2015 10:11:46 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:11:47 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 10:11:47 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:11:47 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 10:11:51 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 10:11:51 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:11:51 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 942 ms
+Nov 06, 2015 10:11:51 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 10:11:51 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 10:11:51 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 10:11:53 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:11:53 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 10:11:53 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1891 ms
+Nov 06, 2015 10:16:19 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:16:20 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 10:16:20 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:16:20 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 10:16:24 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 10:16:25 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:16:25 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 963 ms
+Nov 06, 2015 10:16:25 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 10:16:25 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 10:16:25 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 10:16:26 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:16:26 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 10:16:27 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1974 ms
+Nov 06, 2015 10:17:31 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:17:32 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 10:17:32 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:17:32 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 10:17:36 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 10:17:36 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:17:36 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 969 ms
+Nov 06, 2015 10:17:36 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 10:17:36 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 10:17:36 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 10:17:38 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:17:38 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 10:17:38 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1898 ms
+Nov 06, 2015 10:18:17 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:18:18 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 10:18:18 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:18:18 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 10:18:22 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 10:18:22 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:18:22 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 925 ms
+Nov 06, 2015 10:18:22 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 10:18:22 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 10:18:22 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 10:18:23 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:18:23 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 10:18:24 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1751 ms
+Nov 06, 2015 10:19:47 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:19:48 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 10:19:48 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:19:48 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 10:19:52 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 10:19:52 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:19:52 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 911 ms
+Nov 06, 2015 10:19:52 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 10:19:52 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 10:19:52 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 10:19:54 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:19:54 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 10:19:54 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1845 ms
+Nov 06, 2015 10:54:40 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:54:41 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 10:54:41 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:54:41 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 10:54:45 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 10:54:45 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:54:45 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 967 ms
+Nov 06, 2015 10:54:45 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 10:54:45 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 10:54:45 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 10:54:47 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:54:47 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 10:54:47 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2301 ms
+Nov 06, 2015 10:55:22 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:55:23 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 10:55:24 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:55:24 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 10:55:27 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 10:55:28 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:55:28 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 930 ms
+Nov 06, 2015 10:55:28 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 10:55:28 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 10:55:28 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 10:55:29 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:55:29 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 10:55:29 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1825 ms
+Nov 06, 2015 10:58:33 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:58:34 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 10:58:34 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:58:34 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 10:58:38 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 10:58:39 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:58:39 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 948 ms
+Nov 06, 2015 10:58:39 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 10:58:39 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 10:58:39 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 10:58:40 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:58:40 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 10:58:40 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1829 ms
+Nov 06, 2015 10:59:12 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:59:13 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 10:59:14 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:59:14 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 10:59:17 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 10:59:18 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:59:18 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 933 ms
+Nov 06, 2015 10:59:18 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 10:59:18 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 10:59:18 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 10:59:19 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 10:59:19 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 10:59:19 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1900 ms
+Nov 06, 2015 11:10:42 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:10:43 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 11:10:43 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:10:43 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 11:10:47 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 11:10:48 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:10:48 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 935 ms
+Nov 06, 2015 11:10:48 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 11:10:48 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 11:10:48 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 11:10:49 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:10:49 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 11:10:50 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1919 ms
+Nov 06, 2015 11:18:56 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:18:57 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 11:18:57 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:18:57 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 11:19:01 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 11:19:01 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:19:01 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 963 ms
+Nov 06, 2015 11:19:01 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 11:19:01 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 11:19:01 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 11:19:03 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:19:03 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 11:19:03 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1910 ms
+Nov 06, 2015 11:21:04 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:21:05 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 11:21:05 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:21:05 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 11:21:09 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 11:21:09 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:21:09 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1025 ms
+Nov 06, 2015 11:21:09 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 11:21:09 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 11:21:09 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 11:21:11 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:21:11 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 11:21:11 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1980 ms
+Nov 06, 2015 11:24:05 PM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:24:06 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 06, 2015 11:24:06 PM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:24:06 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Nov 06, 2015 11:24:10 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Nov 06, 2015 11:24:10 PM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:24:10 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 957 ms
+Nov 06, 2015 11:24:10 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 06, 2015 11:24:10 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.15
+Nov 06, 2015 11:24:10 PM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Nov 06, 2015 11:24:12 PM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-11413
+Nov 06, 2015 11:24:12 PM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Nov 06, 2015 11:24:12 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1924 ms
